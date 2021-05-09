@@ -40,6 +40,7 @@ body {
   </style>
   </head>
   <body>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/0cc4d873-e465-4c49-a1bb-fadc1bb39a0b/deploy-status)](https://app.netlify.com/sites/unruffled-edison-641b93/deploys)
   <div class="card">
     <div id="pic">
       <img src="https://stevenlee4083.github.io/images/sosewon.jpeg" alt="selfca" width="150px">
